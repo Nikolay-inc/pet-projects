@@ -1,0 +1,32 @@
+.footer {
+  background-color: rgb(29, 28, 28);
+  color: rgb(241, 241, 241);
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.flex-item {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.flex-item div {
+  opacity: 0.8;
+  font-weight: 200;
+}
+
+.flex-item a{
+  opacity: 0.8;
+  font-weight: 200;
+  color: rgb(241, 241, 241);
+  text-decoration: none;
+  display: block;
+}
+
+.footer-title {
+
+}

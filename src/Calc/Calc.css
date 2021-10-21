@@ -1,0 +1,21 @@
+.block-calc {
+  border: 1px solid black;
+  background-color: rgb(221, 221, 221);
+  max-width: 890px;
+  margin: 0 auto;
+}
+
+.block-calc div {
+  padding: 15px 0 0 30px;
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.calc-res {
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.calc-res li {
+  list-style: none;
+}
